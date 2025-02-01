@@ -27,6 +27,4 @@ public class ContactTest {
 	public void deleteContactTest() {
 		System.out.println("execute deleteContactTest");
 	}
-
-
 }
